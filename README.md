@@ -1,1 +1,1 @@
-# pinterest-scrapbook
+# pinterest-dupe
